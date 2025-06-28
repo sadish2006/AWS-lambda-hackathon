@@ -27,7 +27,7 @@ Spot repeated phrases or potential copying patterns to uphold originality.
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](![Architecture Diagram](https://github.com/user-attachments/assets/7ac43750-8ef3-43f0-b115-210805543a7f))
 
 ### 📝 How It Works
 - **React Frontend**  
@@ -52,7 +52,6 @@ Spot repeated phrases or potential copying patterns to uphold originality.
 | Backend           | Node.js on AWS Lambda                      |
 | API Layer         | Amazon API Gateway                         |
 | AI Engine         | Claude 3 Sonnet via Amazon Bedrock          |
-| Optional Hosting  | AWS Amplify / Netlify / Vercel              |
 
 ---
 
@@ -122,7 +121,7 @@ Runs on `http://localhost:5173`.
 
 ### ☁️ Lambda Deployment
 
-- Each function (`humanizer.js`, `detector.js`, `plagChecker.js`) is zipped and uploaded to AWS Lambda via Console or using frameworks like SAM / Serverless.
+- Each function (`humanizer.mjs`, `detector.mjs`, `plagChecker.mjs`) is zipped and uploaded to AWS Lambda via Console or using frameworks like SAM / Serverless.
 - Connect each to its respective POST method in API Gateway.
 
 ---
@@ -131,7 +130,7 @@ Runs on `http://localhost:5173`.
 
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> 📝 Replace `YOUR_VIDEO_ID` with your actual YouTube ID.
+
 
 ---
 
