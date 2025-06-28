@@ -128,7 +128,7 @@ Runs on `http://localhost:5173`.
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://youtu.be/T5X5_DZsy64?si=q8RTH9mvLwB1ecgR)](https://youtu.be/T5X5_DZsy64?si=q8RTH9mvLwB1ecgR)
 
 
 
@@ -159,8 +159,8 @@ Amazon Bedrock gives direct, fully managed access to Claude 3 Sonnet, offering s
 ## 👨‍💻 Developed By
 
 **Your Name**  
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [https://linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- GitHub:(https://github.com/sadish2006)  
+
 
 ---
 
